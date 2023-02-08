@@ -8,3 +8,5 @@ setInterval(() => {
     el.innerHTML = `${counter}%`;
   }
 }, 80);
+
+
